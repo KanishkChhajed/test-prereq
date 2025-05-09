@@ -26,7 +26,7 @@
   
   ## 📢 Last Commit
   
-  > "Adding my workflow for readme generation for testing"
+  > "📚 Auto-generation README"
   
   ---
   
